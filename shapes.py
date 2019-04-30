@@ -1,5 +1,5 @@
 class Circle:
-	def__init__(self,radius,area,circumference):
+	def __init__(self,radius,area,circumference):
 		self.radius=radius
 		self.area=area
 		self.circumference=circumference
@@ -11,14 +11,14 @@ class Circle:
 		print(area)
 
 
-	def circumference(self,pie,radius)
+	def circumference(self,pie,radius):
 		self.circumference=2pie*radius
 		print(circumference)
 
 
 
 class Squares:
-	def__init__(self,side,area,perimeter):
+	def __init__(self,side,area,perimeter):
 		self.side=side
 		self.area=area
 		self.perimeter=perimeter
@@ -34,7 +34,7 @@ class Squares:
 
 
 class Rectangle:
-	def__init__(self,l,w,area,perimeter):
+	def __init__(self,l,w,area,perimeter):
 		self.l=l
 		sel.w=w
 		self.area=area
@@ -53,7 +53,7 @@ class Rectangle:
 
 
 class Sphere:
-	def__init__(self,radius,SA,volume)
+	def __init__(self,radius,SA,volume)
 		self.radius=radius
 		self.SA=SA
 		self.volume
